@@ -17,3 +17,7 @@ Estrutura do Projeto
 HTML: O layout do formulário com um botão de reserva.
 
 JavaScript: O código para controlar o número de reservas e desativar o botão quando o limite for atingido.
+
+Clique aqui para ver uma prévia do Sistema de Reservas: https://lucaas011.github.io/Sistema-de-Reserva-de-Hotel-com-JavaScript/
+
+
